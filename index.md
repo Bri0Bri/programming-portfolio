@@ -22,6 +22,6 @@ Space ship shooter game built in Processing 4
 
 Zoog character built in Processing 4
 
-![Running Zoog]()
+![Running Zoog](https://github.com/Bri0Bri/programming-portfolio/blob/main/images/zoog.png?raw=true)
 
 [Zoog Source Code]()
