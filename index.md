@@ -30,4 +30,6 @@ Zoog character built in Processing 4
 
 Piglatin translator, enter word it makes it piglatin built in Replit Java
 
+![Running Piglatin](https://github.com/Bri0Bri/programming-portfolio/blob/main/images/piglatin.png)
+
 [Piglatin Source Code](https://github.com/Bri0Bri/programming-portfolio/tree/main/src/piglatin)
