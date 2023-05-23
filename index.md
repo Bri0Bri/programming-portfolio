@@ -33,3 +33,11 @@ Piglatin translator, enter word it makes it piglatin built in Replit Java
 ![Running Piglatin](https://github.com/Bri0Bri/programming-portfolio/blob/main/images/piglatin.png)
 
 [Piglatin Source Code](https://github.com/Bri0Bri/programming-portfolio/tree/main/src/piglatin)
+
+### Fish Game
+
+Fish game, based off dinasour game when you have no internet.
+
+![Running Fish Game](https://github.com/Bri0Bri/programming-portfolio/blob/main/images/Screen%20Shot%202023-05-23%20at%209.45.14%20AM.png)
+
+[Fish Game Source Code](https://github.com/Bri0Bri/programming-portfolio/tree/main/src/FishGame)
